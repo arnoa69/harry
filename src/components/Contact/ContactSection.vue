@@ -20,7 +20,7 @@
       <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="300">
         <i class="bi bi-telephone"></i>
         <h3>Direkt anrufen</h3>
-        <p>+34 613 977 931</p>
+        <p><a href="tel:+34613977931">+34 613 977 931</a></p>
       </div>
     </div><!-- End Info Item -->
 
@@ -28,7 +28,7 @@
       <div class="info-item d-flex flex-column justify-content-center align-items-center" data-aos="fade-up" data-aos-delay="400">
         <i class="bi bi-envelope"></i>
         <h3>Direkt per E-mail</h3>
-        <p>info@harry-buck.com</p>
+        <p><a href="mailto:info@harry-buck.com"> info@harry-buck.com</a></p>
       </div>
     </div><!-- End Info Item -->
 
@@ -36,7 +36,7 @@
 
   <div class="row gy-4 mt-1">
     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d98425.1989646491!2d2.81664!3d39.6293653!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297c8b8b8b8b8b9%3A0x0!2sH.Buck+Neu-und+Betonbau%2C+S.L%2C+Cami+de+Son+Arrosa+S%2Fn+Poligono%2C10+Parcela+N%C2%B0+133%2C+07143+Biniali%2C+Balearic+Islands!5e0!3m2!1sen!2ses!4v1624981234567!5m2!1sen!2ses" frameborder="0" style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3072.7414160943563!2d2.860516976598836!3d39.633025771576335!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297c7698a24c4a5%3A0x969d8b7b9e98c590!2sH.Buck%20Neu-und%20Betonbau%2C%20S.L!5e0!3m2!1sde!2ses!4v1731847910268!5m2!1sde!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div><!-- End Google Maps -->
 
     <div class="col-lg-6">

@@ -18,12 +18,12 @@
       <div class="card-item">
         <div class="row">
           <div class="col-xl-5">
-            <div class="card-bg"><img src="/img/constructions-1.jpg" alt=""></div>
+            <div class="card-bg"><img src="/img/constructions-3.jpg" alt=""></div>
           </div>
           <div class="col-xl-7 d-flex align-items-center">
             <div class="card-body">
-              <h4 class="card-title">Eligendi omnis sunt veritatis.</h4>
-              <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+              <h4 class="card-title">Neubau und Wohnungsbau</h4>
+              <p>Unsere Baufirma bietet Ihnen umfassende Dienstleistungen im Bereich Neubau und Wohnungsbau. Wir realisieren Ihre Traumimmobilie, sei es ein Einfamilienhaus oder ein Mehrfamilienhaus. Von der Planung bis zur Schlüsselübergabe – wir stehen Ihnen in jedem Schritt zur Seite.</p>
             </div>
           </div>
         </div>
@@ -34,12 +34,13 @@
       <div class="card-item">
         <div class="row">
           <div class="col-xl-5">
-            <div class="card-bg"><img src="/img/constructions-2.jpg" alt=""></div>
+            <div class="card-bg"><img src="/img/constructions-22.jpg" alt=""></div>
           </div>
           <div class="col-xl-7 d-flex align-items-center">
             <div class="card-body">
-              <h4 class="card-title">Possimus ut sed velit assumenda</h4>
-              <p>Sunt deserunt maiores voluptatem autem est rerum perferendis rerum blanditiis. Est laboriosam qui iste numquam laboriosam voluptatem architecto. Est laudantium sunt at quas aut hic. Eum dignissimos.</p>
+              <h4 class="card-title">Sanierung und Renovierung</h4>
+              <p>Ob es sich um eine umfassende Sanierung oder eine gezielte Renovierung handelt, 
+      wir sind Ihr Partner für alle Arbeiten an Bestandsimmobilien. Wir helfen Ihnen, den Wert Ihrer Immobilie zu steigern und modernisieren Ihr Zuhause nach Ihren Wünschen.</p>
             </div>
           </div>
         </div>
@@ -50,12 +51,14 @@
       <div class="card-item">
         <div class="row">
           <div class="col-xl-5">
-            <div class="card-bg"><img src="/img/constructions-3.jpg" alt=""></div>
+            <div class="card-bg"><img src="/img/constructions-33.jpg" alt=""></div>
           </div>
           <div class="col-xl-7 d-flex align-items-center">
             <div class="card-body">
-              <h4 class="card-title">Error beatae dolor inventore aut</h4>
-              <p>Dicta porro nobis. Velit cum in. Nesciunt dignissimos enim molestiae facilis numquam quae quaerat ipsam omnis. Neque debitis ipsum at architecto officia laboriosam odit. Ut sunt temporibus nulla culpa.</p>
+              <h4 class="card-title">Innenausbau</h4>
+              <p>Der Innenausbau ist entscheidend für das Ambiente Ihres Zuhauses. 
+              Wir bieten Ihnen maßgeschneiderte Lösungen im Bereich Trockenbau, Bodenbeläge und Malerarbeiten. 
+              Lassen Sie uns gemeinsam Ihre Wohnräume gestalten!</p>
             </div>
           </div>
         </div>
@@ -66,12 +69,14 @@
       <div class="card-item">
         <div class="row">
           <div class="col-xl-5">
-            <div class="card-bg"><img src="/img/constructions-4.jpg" alt=""></div>
+            <div class="card-bg"><img src="/img/constructions-44.jpg" alt=""></div>
           </div>
           <div class="col-xl-7 d-flex align-items-center">
             <div class="card-body">
-              <h4 class="card-title">Expedita voluptas ut ut nesciunt</h4>
-              <p>Aut est quidem doloremque voluptatem magnam quis excepturi vero quia. Eum eos doloremque architecto illo at beatae dolore. Fugiat suscipit et sint ratione dolores. Aut aliquid ea dolores libero nobis.</p>
+              <h4 class="card-title">Poolbau</h4>
+              <p>Träumen Sie von einem eigenen Pool im Garten? 
+      Wir realisieren Ihren Poolbau nach Ihren Vorstellungen – ob freistehend oder im Boden eingelassen. 
+      Genießen Sie entspannende Stunden in Ihrem eigenen Schwimmbereich.</p>
             </div>
           </div>
         </div>

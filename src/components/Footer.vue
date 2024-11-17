@@ -8,10 +8,10 @@
         <span class="sitename">UpConstruction</span>
       </a>
       <div class="footer-contact pt-3">
-        <p>A108 Adam Street</p>
-        <p>New York, NY 535022</p>
-        <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-        <p><strong>Email:</strong> <span>info@example.com</span></p>
+        <p>Cami de Son Arrosa S/n Poligono,10</p>
+        <p>07143 Biniali</p>
+        <p class="mt-3"><strong>Phone:</strong> <span>+34 613 977 931</span></p>
+        <p><strong>Email:</strong> <span>info@harry-buck.com</span></p>
       </div>
       <div class="social-links d-flex mt-4">
         <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -35,11 +35,11 @@
     <div class="col-lg-2 col-md-3 footer-links">
       <h4>Our Services</h4>
       <ul>
-        <li><a href="#">Web Design</a></li>
-        <li><a href="#">Web Development</a></li>
-        <li><a href="#">Product Management</a></li>
-        <li><a href="#">Marketing</a></li>
-        <li><a href="#">Graphic Design</a></li>
+        <li><a href="#">Neu- und Betonbau</a></li>
+        <li><a href="#">Umbau und Renovierung</a></li>
+        <li><a href="#">Poolbau</a></li>
+        <li><a href="#">Generalbau</a></li>
+        <li><a href="#">Schlüsselfertig</a></li>
       </ul>
     </div>
 
