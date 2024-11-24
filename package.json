@@ -10,16 +10,17 @@
         "serve": "vite preview"
     },
     "dependencies": {
+        "@intlify/unplugin-vue-i18n": "^6.0.0",
         "@popperjs/core": "^2.11.6",
         "bootstrap": "^5.3.3",
         "bootstrap-icons": "^1.11.3",
         "vue": "^3.5.12",
+        "vue-i18n": "^9.14.1",
         "vue-router": "^4.4.5"
     },
     "devDependencies": {
         "@vitejs/plugin-vue": "^5.1.4",
-        "vite": "^5.4.10",
-        "sass": "1.77.6"
+        "sass": "1.77.6",
+        "vite": "^5.4.10"
     }
 }
-    

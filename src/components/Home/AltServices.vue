@@ -16,28 +16,28 @@
                   <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="300">
                       <i class="bi bi-easel flex-shrink-0"></i>
                       <div>
-                          <h4><a href="" class="stretched-link">Komplette Planung</a></h4>
+                          <h4>Komplette Planung</h4>
                           <p>Wir kümmern uns um die gesamte Planung Ihres Bauprojekts und stellen sicher, dass alles reibungslos abläuft.</p>
                       </div>
                   </div><!-- End Icon Box -->
                   <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="400">
                       <i class="bi bi-patch-check flex-shrink-0"></i>
                       <div>
-                          <h4><a href="" class="stretched-link">Dokumentiertes Projekt</a></h4>
+                          <h4>Dokumentiertes Projekt</h4>
                           <p>Jedes Projekt wird detailliert dokumentiert, damit Sie jederzeit den Überblick über den Fortschritt haben.</p>
                       </div>
                   </div><!-- End Icon Box -->
                   <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="500">
                       <i class="bi bi-brightness-high flex-shrink-0"></i>
                       <div>
-                          <h4><a href="" class="stretched-link">Hohe Qualität</a></h4>
+                          <h4>Hohe Qualität</h4>
                           <p>Wir verwenden nur hochwertige Materialien und moderne Techniken, um Ihre Erwartungen zu übertreffen.</p>
                       </div>
                   </div><!-- End Icon Box -->
                   <div class="icon-box d-flex position-relative" data-aos="fade-up" data-aos-delay="600">
                       <i class="bi bi-brightness-high flex-shrink-0"></i>
                       <div>
-                          <h4><a href="" class="stretched-link">Zuverlässige Partner</a></h4>
+                          <h4>Zuverlässige Partner</h4>
                           <p>Wir arbeiten mit erfahrenen Handwerkern und Partnern, um Ihnen die besten Ergebnisse zu garantieren.</p>
                       </div>
                   </div><!-- End Icon Box -->

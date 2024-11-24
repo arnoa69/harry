@@ -21,7 +21,7 @@
   --background-color: #F2F2F2;
   --default-color: #333333;
   --heading-color: #333333;
-  --accent-color: #FFD700;
+  --accent-color: #da930e;
   --surface-color: #FFFFFF;
   --contrast-color: #000000;
 }
@@ -29,11 +29,11 @@
 /* Nav Menu Colors */
 :root {
   --nav-color: rgba(255, 255, 255, 0.55);
-  --nav-hover-color: #FFD700;
+  --nav-hover-color: #da930e;
   --nav-mobile-background-color: #F2F2F2;
   --nav-dropdown-background-color: #FFFFFF;
   --nav-dropdown-color: #333333;
-  --nav-dropdown-hover-color: #FFD700;
+  --nav-dropdown-hover-color: #da930e;
 }
 
 /* Color Presets - These classes override global colors when applied to any section or element, providing reuse of the sam color scheme. */

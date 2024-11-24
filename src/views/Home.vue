@@ -1,6 +1,5 @@
 <script setup>
 import Hero from "@/components/Home/Hero.vue";
-import Testimonials from '@/components/Home/Testimonials.vue';
 import GetStarted from "@/components/Home/GetStarted.vue";
 import Constructions from "@/components/Home/Constructions.vue";
 import Services from "@/components/Home/Services.vue";
@@ -18,7 +17,7 @@ import Projects from "@/components/Home/Projects.vue";
         <AltServices />
         <Features />
         <Projects />
-        <Testimonials />    
+        <!-- <Testimonials />     -->
     </div>
 </template>
 

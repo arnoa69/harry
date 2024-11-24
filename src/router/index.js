@@ -5,6 +5,8 @@ import Blog from "@/views/Blog.vue";
 import Contacts from "@/views/Contacts.vue";
 import ProjectList from "@/views/ProjectList.vue";
 import ProjectView from "@/views/ProjectView.vue";
+import Privacy from "@/views/Privacy.vue";
+import Terms from "@/views/Terms.vue";
 
 export const routes = [
   {
@@ -32,9 +34,21 @@ export const routes = [
     meta: { layout: "MainLayout" },
   },
   {
-    path: "/project-details/:slug",
+    path: "/project-details/:projectId/:slug",
     name: "ProjectDetails",
     component: ProjectView,
+    meta: { layout: "MainLayout" },
+  },
+  {
+    path: "/neu-beton-pool-bauen-mallorca/nutzungsbedingungen",
+    name: "Nutzungsbedingungen",
+    component: Terms,
+    meta: { layout: "MainLayout" },
+  },
+  {
+    path: "/neu-beton-pool-bauen-mallorca/datenschutzrichtlinie",
+    name: "Datenschutzrichtlinie",
+    component: Privacy,
     meta: { layout: "MainLayout" },
   },
 ];

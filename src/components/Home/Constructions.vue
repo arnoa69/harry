@@ -6,8 +6,8 @@
 
 <!-- Section Title -->
 <div class="container section-title" data-aos="fade-up">
-  <h2>Constructions</h2>
-  <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+  <h2>Bauen mit Qualität und Vertrauen auf Mallorca</h2>
+  <p>Von der Planung bis zur Fertigstellung: Wir begleiten Sie zuverlässig bei Ihrem Neubau, Ihrer Sanierung, Ihrem Innenausbau oder Poolbau auf Mallorca. Informieren Sie sich hier!</p>
 </div><!-- End Section Title -->
 
 <div class="container">
