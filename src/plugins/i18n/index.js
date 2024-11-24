@@ -2,6 +2,13 @@ import  { createI18n } from 'vue-i18n';
 
 const messages = {
   de: {
+    "links": {
+      "title": "Richtlinien",
+      "cookie-policy": "Cookie-Richtlinie",
+      "privacy-policy": "Datenschutzerklärung",
+      "terms-and-conditions": "Allgemeine Geschäftsbedingungen",
+      "imprint": "Impressum"
+    },
     "cookiebanner": {
         "title": "Aber zuerst, Cookies!",
         "description": "Wir verwenden Cookies, um Ihre Einstellungen zu speichern, Ihnen relevante Inhalte anzuzeigen und Ihr Harry Buck Neu- und Betonbau Mallorca, S.L.-Erlebnis reibungsloser zu gestalten. Durch die Nutzung von Harry Buck Neu- und Betonbau Mallorca, S.L. stimmen Sie unserer ",

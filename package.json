@@ -14,6 +14,7 @@
         "@popperjs/core": "^2.11.6",
         "bootstrap": "^5.3.3",
         "bootstrap-icons": "^1.11.3",
+        "posthog-js": "^1.188.0",
         "vue": "^3.5.12",
         "vue-i18n": "^9.14.1",
         "vue-router": "^4.4.5"
