@@ -57,8 +57,8 @@ const openPolicyBanner = () => {
     </div>
     <div class="link-group">
       <a :href="openPolicyBanner" class="policy-link">{{ $t("links.cookie-policy") }}</a>
-      <a :href="`/${locale}/privacy-policy`" class="policy-link">{{ $t("links.privacy-policy") }}</a>
-      <a :href="`/${locale}/terms-and-conditions`" class="policy-link">{{ $t("links.terms-and-conditions") }}</a>
+      <a href="/neu-beton-pool-bauen-mallorca/datenschutzrichtlinie" class="policy-link">{{ $t("links.privacy-policy") }}</a>
+      <a href="/neu-beton-pool-bauen-mallorca/nutzungsbedingungen" class="policy-link">{{ $t("links.terms-and-conditions") }}</a>
     </div>
   </div>
 </template>
